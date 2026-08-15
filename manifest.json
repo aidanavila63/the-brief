@@ -1,0 +1,11 @@
+{
+  "name": "The Brief",
+  "short_name": "Brief",
+  "description": "Your day in one place.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0E1216",
+  "theme_color": "#0E1216"
+}
